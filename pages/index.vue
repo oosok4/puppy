@@ -11,6 +11,6 @@
     <br>
     <article class="message">
       <div class="message-header">개란 무엇인가?</div>
-      <div class="message-body">afhadfhahahadha<div>
+      <div class="message-body">afdgdfg</div>
   </section>
 </template>
